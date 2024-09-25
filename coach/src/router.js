@@ -8,7 +8,7 @@ import RequestReceived from "./pages/request/RequestReceived.vue";
 import NotFound from "./pages/NotFound.vue";
 
 const router = createRouter({
-  history: createWebHistory,
+  history: createWebHistory(),
   routes: [
     {
       path: "/",
@@ -42,3 +42,5 @@ const router = createRouter({
     },
   ],
 });
+
+export default router;
