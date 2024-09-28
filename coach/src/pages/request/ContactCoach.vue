@@ -1,6 +1,4 @@
-<template>
-  <section>Hello</section>
-</template>
+<template>Contact Coach</template>
 
 <script></script>
 <style></style>

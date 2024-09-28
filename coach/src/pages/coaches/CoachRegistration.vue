@@ -1,5 +1,5 @@
 <template>
-  <section>Hello</section>
+  <section>Register</section>
 </template>
 
 <script></script>
